@@ -1,0 +1,152 @@
+1625020799137	geckodriver	INFO	Listening on 127.0.0.1:54287
+1625020802224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofileiWkx4u"
+1625020802780	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofileiWkx4u\\search.json.mozlz4", (void 0)))
+1625020804836	Marionette	INFO	Listening on port 56364
+1625020804933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://appportal/portal/login/general.js, line 77: unreachable code after return statement
+1625020808484	Marionette	INFO	Stopped listening on port 56364
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625020812976	geckodriver	INFO	Listening on 127.0.0.1:64257
+1625020816050	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofilehCay22"
+1625020816560	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofilehCay22\\search.json.mozlz4", (void 0)))
+1625020818734	Marionette	INFO	Listening on port 61933
+1625020819276	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://appportal/portal/login/general.js, line 77: unreachable code after return statement
+1625020859948	Marionette	INFO	Stopped listening on port 61933
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625020898888	geckodriver	INFO	Listening on 127.0.0.1:53997
+1625020901958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofileYQdCjL"
+1625020902423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofileYQdCjL\\search.json.mozlz4", (void 0)))
+1625020904603	Marionette	INFO	Listening on port 65423
+1625020905154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://appportal/portal/login/general.js, line 77: unreachable code after return statement
+1625020941144	Marionette	INFO	Stopped listening on port 65423
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625021015486	geckodriver	INFO	Listening on 127.0.0.1:49744
+1625021018557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofilebh9lE6"
+1625021019021	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofilebh9lE6\\search.json.mozlz4", (void 0)))
+1625021021035	Marionette	INFO	Listening on port 59972
+1625021021216	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://appportal/portal/login/general.js, line 77: unreachable code after return statement
+1625021057434	Marionette	INFO	Stopped listening on port 59972
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625021327026	geckodriver	INFO	Listening on 127.0.0.1:64969
+1625021330111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofileoXqx50"
+1625021330608	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofileoXqx50\\search.json.mozlz4", (void 0)))
+1625021332658	Marionette	INFO	Listening on port 50598
+1625021332762	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 15488, MediaDecoderStateMachine #1] WARNING: Decoder=22e4559a000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto __cdecl mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()(void) const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625021474057	Marionette	INFO	Stopped listening on port 50598
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625021476359	geckodriver	INFO	Listening on 127.0.0.1:56187
+1625021479408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofileagfc2q"
+1625021479901	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofileagfc2q\\search.json.mozlz4", (void 0)))
+1625021481978	Marionette	INFO	Listening on port 58318
+1625021482078	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9752, MediaDecoderStateMachine #1] WARNING: Decoder=2c1452a9400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto __cdecl mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()(void) const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+SourceActor threw an exception: Error: Failed to fetch https://approweb.intranet.pajak.go.id/index.php?r=pengawasan/datMupeng. Code 2152924148.
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:556:16
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 556, column: 16
+console.error: (new Error("Failed to fetch https://approweb.intranet.pajak.go.id/index.php?r=pengawasan/datMupeng. Code 2152924148.", "resource://devtools/shared/DevToolsUtils.js", 556))
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 556: Error: Failed to fetch https://approweb.intranet.pajak.go.id/index.php?r=pengawasan/datMupeng. Code 2152924148.
+1625021980760	Marionette	INFO	Stopped listening on port 58318
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofile03ZDOD"
+1625021694797	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofile03ZDOD\\search.json.mozlz4", (void 0)))
+1625021696812	Marionette	INFO	Listening on port 61936
+1625021696970	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13900, MediaDecoderStateMachine #1] WARNING: Decoder=160d8807800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto __cdecl mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()(void) const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625021705672	Marionette	INFO	Stopped listening on port 61936
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625021982994	geckodriver	INFO	Listening on 127.0.0.1:57777
+1625021986055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofilee7XCvb"
+1625021986551	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofilee7XCvb\\search.json.mozlz4", (void 0)))
+1625021988387	Marionette	INFO	Listening on port 53410
+1625021988714	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13704, MediaDecoderStateMachine #1] WARNING: Decoder=1bacd10a800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto __cdecl mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()(void) const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625022122077	Marionette	INFO	Stopped listening on port 53410
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625022132074	geckodriver	INFO	Listening on 127.0.0.1:52444
+1625022135152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofile69huVY"
+1625022135640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofile69huVY\\search.json.mozlz4", (void 0)))
+1625022137593	Marionette	INFO	Listening on port 57600
+1625022137796	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16024, MediaDecoderStateMachine #1] WARNING: Decoder=2587211c000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto __cdecl mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()(void) const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625022376654	Marionette	INFO	Stopped listening on port 57600
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625022381009	geckodriver	INFO	Listening on 127.0.0.1:65031
+1625022384058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofile4hXnwd"
+1625022384538	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofile4hXnwd\\search.json.mozlz4", (void 0)))
+1625022386382	Marionette	INFO	Listening on port 52892
+1625022386717	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13596, MediaDecoderStateMachine #1] WARNING: Decoder=1b901997000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto __cdecl mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()(void) const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625022659884	Marionette	INFO	Stopped listening on port 52892
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625022663198	geckodriver	INFO	Listening on 127.0.0.1:60201
+1625022666279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofileXTI887"
+1625022666790	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofileXTI887\\search.json.mozlz4", (void 0)))
+1625022668599	Marionette	INFO	Listening on port 63291
+1625022668940	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6728, MediaDecoderStateMachine #1] WARNING: Decoder=1f07b49e000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto __cdecl mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()(void) const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625022680663	Marionette	INFO	Stopped listening on port 63291
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625022967321	geckodriver	INFO	Listening on 127.0.0.1:64572
+1625022970384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofile1pa1oS"
+1625022970898	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofile1pa1oS\\search.json.mozlz4", (void 0)))
+1625022972919	Marionette	INFO	Listening on port 63796
+1625022973075	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4436, MediaDecoderStateMachine #1] WARNING: Decoder=254339fc000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto __cdecl mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()(void) const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625022980044	Marionette	INFO	Stopped listening on port 63796
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625470105400	geckodriver	INFO	Listening on 127.0.0.1:60255
+1625470108477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofilevdtci1"
+1625470109706	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Sugengw07\\AppData\\Local\\Temp\\rust_mozprofilevdtci1\\search.json.mozlz4", (void 0)))
+1625470112543	Marionette	INFO	Listening on port 60263
+1625470112693	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 1276, MediaDecoderStateMachine #1] WARNING: Decoder=187b4f9b400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - auto __cdecl mozilla::SupportChecker::AddMediaFormatChecker(const mozilla::TrackInfo &)::(anonymous class)::operator()(void) const: Decoder may not have the capability to handle the requested video format with YUV444 chroma subsampling.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+1625470132740	Marionette	INFO	Stopped listening on port 60263
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Invalid port. Exiting...
